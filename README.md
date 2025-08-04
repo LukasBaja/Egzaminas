@@ -40,6 +40,20 @@
 - cd ../frontend
 - npm run dev
 
+## Create Env file for your personal site
+ **Environment Configuration**
+
+   Create a `.env` file in the backend directory:
+
+   ```env
+   PORT=3000
+   MONGO_DB=Your database URI 
+   JWT_SALT=Your salt key
+   NODE_ENV=development
+   NOT_AUTHORIZED="User is not authorized to perform this action"
+   NOT_AUTHORIZED_NO_TOKEN="User is not authorized to perform this action, no token provided"
+   ```
+
 ## How to Push, Make a Branch, and Push to Git
 
 1. Create a new branch:

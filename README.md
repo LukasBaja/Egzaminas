@@ -1,4 +1,4 @@
-# Jira Event Manager App
+# Event Manager App
 
 - React + Vite frontend in /frontend
 - Node.js + Express + MongoDB backend in /backend

@@ -21,8 +21,7 @@
 ## Setup Instructions
 
 1. Clone the repository:
-- git clone https://github.com/Geriausia-KITM-Grupe/Geriausia-KITM-Grup-.git
-- cd "Geriausia-KITM-Grup"
+- git clone https://github.com/LukasBaja/Egzaminas
 2. Install dependencies:
 - Backend:
 - cd ../backend
